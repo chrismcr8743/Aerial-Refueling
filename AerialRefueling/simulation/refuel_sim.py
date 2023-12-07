@@ -12,9 +12,7 @@ from ctrl.transfer_fun import TransferFunctions
 from ctrl.compute_trim import ComputeTrim
 from ctrl.path_follow import PathFollower
 from viewers.mav_animation import Mav_Animation 
-from viewers.data_plotter_ref import dataPlotterRef
 from viewers.data_plotter_state import dataPlotterState
-from viewers.data_plotter_deflections import dataPlotterDeflections
 from msg.msg_path import msg_path
 
 # Initialize
